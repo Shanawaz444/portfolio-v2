@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "rock salt";
+    src: url("../../assets/fonts/RockSalt-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "M PLUS Rounded 1c";
+    src: url("../../assets/fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Salsa";
+    src: url("../../assets/fonts/Salsa-Regular.ttf") format("truetype");
+}
